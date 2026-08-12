@@ -1,6 +1,6 @@
 # Remote theme directory
 #remote_theme: analytics-link/analytics-link.github.io
-theme: jekyll-theme-minima
+remote_theme: jekyll/minima@d4d779a
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
