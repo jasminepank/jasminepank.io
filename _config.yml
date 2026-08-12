@@ -9,7 +9,7 @@ plugins:
 #-------------------------------
 # General Site Settings
 title: Jasmine Pankratz
-description: "Hi I'm Jasmine, and I'm a Data Scientist.  My portfolio focuses on interesting projects I've recently undertaken, with a strong emphasis on business impact. Please visit my Github & LinkedIn pages (or download my Resume) by using the links below!"
+description: "I'm Jasmine, an Industrial Engineer specialized in data science and analytics. I turn complex data into clear, actionable insights that help organizations make smarter decisions and run more efficiently. My work spans machine learning, statistical modeling, data visualization, and process improvement. I'm driven by curiosity and the satisfaction of solving real problems with data. Explore my projects below to see how I approach analysis and modeling."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
